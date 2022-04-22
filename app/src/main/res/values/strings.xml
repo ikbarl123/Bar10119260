@@ -5,8 +5,7 @@
     <string name="password">Password</string>
     <string name="register">Register</string>
     <string name="get_started">Get Started</string>
-    <string name="nama">Nama</string>
-    <string name="ikbar_laudza_alviansyah">Ikbar Laudza Alviansyah</string>
+    <string name="nama">Ikbar Laudza Alviansyah</string>
     <string name="homepage">Homepage</string>
     <string name="profil">Profil</string>
     <string name="logout">Logout</string>
@@ -14,4 +13,5 @@
     <string name="aplikasi_intent">Aplikasi Intent</string>
     <string name="NIM">10119260</string>
     <string name="kelas">IF-7</string>
+    <string name="deskripsi">Seorang pemuda yang tertarik dengan teknologi</string>
 </resources>

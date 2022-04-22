@@ -64,7 +64,7 @@
                 android:layout_height="wrap_content"
                 android:background="#35F82D"
                 android:padding="10dip"
-                android:text="@string/ikbar_laudza_alviansyah"
+                android:text="@string/nama"
                 android:textColor="#000"
                 android:textSize="12dp" />
 
@@ -104,6 +104,23 @@
 
 
         </TableRow>
+        <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#62EFBD"
+            android:padding="10dp"
+            android:text="@string/des"
+            android:textColor="#000"
+            android:textSize="12dp" />
+
+
+    </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
