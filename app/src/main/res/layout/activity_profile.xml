@@ -115,7 +115,7 @@
             android:layout_height="wrap_content"
             android:background="#62EFBD"
             android:padding="10dp"
-            android:text="@string/des"
+            android:text="@string/deskripsi"
             android:textColor="#000"
             android:textSize="12dp" />
 
