@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bar10119260</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="get_started">Get Started</string>
+    <string name="nama">Nama</string>
+    <string name="ikbar_laudza_alviansyah">Ikbar Laudza Alviansyah</string>
+    <string name="homepage">Homepage</string>
+    <string name="profil">Profil</string>
+    <string name="logout">Logout</string>
+    <string name="kembali">Kembali</string>
+    <string name="aplikasi_intent">Aplikasi Intent</string>
+    <string name="NIM">10119260</string>
+    <string name="kelas">IF-7</string>
+</resources>
