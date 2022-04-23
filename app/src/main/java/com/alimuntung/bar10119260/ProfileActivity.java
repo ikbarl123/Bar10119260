@@ -7,6 +7,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+// Ikbar Laudza Alviansyah
+// IF-7
+// 10119260
+// 22 April 2022
+
 public class ProfileActivity extends AppCompatActivity {
     private Button btnBack;
 

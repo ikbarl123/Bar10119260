@@ -8,6 +8,11 @@
     tools:context=".MainActivity"
     android:padding="60dp">
 
+    <!--  Ikbar Laudza Alviansyah
+            IF-7
+            10119260
+            22 April 2022 -->
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -8,6 +8,11 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+// Ikbar Laudza Alviansyah
+// IF-7
+// 10119260
+// 22 April 2022
+
 public class RegisterActivity extends AppCompatActivity {
     private Button btnRegister;
 
